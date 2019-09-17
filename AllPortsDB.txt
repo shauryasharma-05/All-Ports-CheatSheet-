@@ -1,4 +1,4 @@
-# Port DB for Infobot by CommPort5
+# Port DB for Infobot by Shaurya Sharma
 
 port 0 => - Reserved 
 port 1 => tcpmux - TCP Port Service Multiplexer 
